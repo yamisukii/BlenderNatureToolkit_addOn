@@ -156,10 +156,6 @@ class FALLINGPARTICLES_OT_add_particlesystemforfallingparticles(bpy.types.Operat
         col.prop(self, "ANGULAR_VELOICTY")
         col.prop(self, "SHOW_VIEWPORT")
 
-    # def invoke(self, context, event):
-    #     wm = context.window_manager
-    #     return wm.invoke_props_dialog(self)
-
     def add_particelSystem(self, _particlesys_name) -> bpy.types.Object:
         bpy.ops.mesh.primitive_cube_add()
         my_obj = bpy.context.active_object
