@@ -1,6 +1,6 @@
 # Blender Leaves Addon
 
-![Watch the video](https://i9.ytimg.com/vi_webp/KO4YwZF5bn4/mq2.webp?sqp=CIztsaoG)
+![Watch the video](Thumbnail.png)]
 
 [See the Addon in Action - Recreating a 'Your Name' Scene](https://www.youtube.com/watch?v=KO4YwZF5bn4)
 
