@@ -1,5 +1,8 @@
 # Blender Leaves Addon
 
+
+[![Watch the video](https://i9.ytimg.com/vi_webp/KO4YwZF5bn4/mq2.webp?sqp=CIztsaoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBggUih_MA8=&rs=AOn4CLDYCV5O7b4BSiP3OST7j48IE9hMBA)](https://www.youtube.com/watch?v=KO4YwZF5bn4)
+
 ## About the Addon
 
 This Blender addon is designed to enhance your 3D environment creation workflow. It allows you to:
